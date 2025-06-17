@@ -14,7 +14,7 @@ I'm also deeply curious and continuously learning — I have completed reading t
 - **Frontend:** Angular, HTML, CSS, Bootstrap, PrimeNG  
 - **Backend:** Spring Boot, Java, Python, Flask  
 - **Security:** JWT, Keycloak  
-- **Databases:** PostgreSQL, MongoDB  
+- **Databases:** PostgreSQL, MongoDB, Redis 
 - **Dev Tools:** Git, Docker, Postman, Swagger, Nginx  
 - **Others:** REST APIs, Microservices, OAuth2 / OIDC
 
@@ -31,9 +31,15 @@ I’m eager to join a **collaborative team** where I can:
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/bechir-benothman-08b880273/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bechir benothman" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/loudalker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="loudalker" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/bechir-benothman-08b880273/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bechir benothman" height="30" width="40" style="margin-right: 15px;" />
+  </a>
+  
+  <a href="https://leetcode.com/u/LoudAlker/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="loudalker" height="30" width="40" />
+  </a>
 </p>
+
 
 ---
 
