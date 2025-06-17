@@ -7,7 +7,7 @@
 
 I'm a passionate software developer, recently graduated from the **National School of Computer Sciences (ENSI), Manouba**, with hands-on experience in full-stack development. I love building modern web applications and working with dynamic teams on real-world problems.
 
-I'm also deeply curious and continuously learning — I enjoy reading technical books like **_Head First Design Patterns_**, **_Designing Data-Intensive Applications_**, and **_Grokking Algorithms_** to sharpen my understanding of system design, architecture, and problem-solving.
+I'm also deeply curious and continuously learning — I have completed reading technical books like **_Head First Design Patterns_**, **_Designing Data-Intensive Applications_**, and **_Grokking Algorithms_** to sharpen my understanding of system design, architecture, and problem-solving.
 
 ### 🛠️ Tech Stack
 
