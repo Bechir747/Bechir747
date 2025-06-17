@@ -31,7 +31,7 @@ I’m eager to join a **collaborative team** where I can:
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/bechir benothman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bechir benothman" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/bechir-benothman/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bechir benothman" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/loudalker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="loudalker" height="30" width="40" /></a>
 </p>
 
