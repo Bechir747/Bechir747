@@ -1,53 +1,65 @@
 # Bechir Ben Othman
 
 Software Engineer | Full-Stack Developer  
-Tunisia  
+Tunisia 
 
 ---
 
-## About
+## Profile
 
-Software Engineer with industry experience building secure, scalable web applications and AI-powered document processing systems.
+Software Engineer with industry experience designing and delivering secure, scalable, and production-grade applications.
 
-Currently working as a Python / Angular Developer, contributing to OCR and computer vision services integrated into ERP platforms.
+Currently working as a Python / Angular Developer at Grepsys, contributing to OCR and AI-powered document processing systems integrated into ERP platforms.
 
-Experienced in backend architecture, microservices, authentication systems (IAM), and real-time applications.  
-Comfortable working in Agile environments and leading sprint organization as Scrum Master in collaborative projects.
+Strong interest in backend architecture, distributed systems, real-time applications, and identity & access management. Experienced in Agile environments and sprint coordination as Scrum Master in collaborative projects.
 
 ---
 
-## Core Technologies
+## Professional Experience
+
+### Python / Angular Developer — Grepsys (Nov 2024 – Present)
+
+- Developed OCR and document-processing services integrated into ERP systems  
+- Integrated computer vision models (YOLO, PaddleOCR, DocTR)  
+- Built Angular modules for configuration, validation, and workflow management  
+- Designed PostgreSQL schemas and managed migrations using Alembic  
+- Contributed to model training pipelines and feedback loops  
+
+---
+
+## Technical Expertise
 
 **Backend:**  
-Spring Boot, Spring Cloud, Python (Flask), REST APIs, Microservices  
+Spring Boot, Spring Cloud, Python (Flask), REST APIs, Microservices Architecture  
 
 **Frontend:**  
-Angular, React, PrimeNG  
+Angular, React, PrimeNG, Material UI  
 
 **Databases & Messaging:**  
 PostgreSQL, MongoDB, Redis, Kafka  
 
-**Security:**  
+**Security & IAM:**  
 Keycloak, OAuth 2.0, OpenID Connect (OIDC), RBAC  
 
 **DevOps:**  
-Docker, Kubernetes (Helm), Git, CI/CD  
+Docker, Kubernetes (Helm Charts), Git, CI/CD  
 
 **AI & Computer Vision:**  
-YOLO, PaddleOCR, EasyOCR, Tesseract, DocTR  
+YOLO, PaddleOCR, EasyOCR, Tesseract, DocTR, Label Studio  
 
 ---
 
-## Selected Work
+## Selected Projects
 
-**Real-Time Sales Management Platform**  
-Full-stack system with live dashboards (WebSockets), Flutter mobile app, Keycloak-based authentication, Dockerized deployment.  
-Role: Developer & Scrum Master (Jira-based sprint management).
+**Real-Time Store Sales & Sellers Management Platform**  
+Full-stack system featuring live dashboards (WebSockets), Flutter mobile application, centralized authentication with Keycloak, and containerized deployment.  
+Role: Developer & Scrum Master (sprint planning and Jira-based task management).
 
-**Microservices Inventory System**  
-Spring Cloud architecture with service discovery, API Gateway, Kafka event-driven communication, and centralized IAM.
+**Microservices Inventory Management System**  
+Spring Cloud-based architecture with service discovery, API Gateway, Kafka-driven communication, and centralized identity management.
 
 ---
+
 ## Connect
 
 <p align="left">
